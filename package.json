@@ -18,7 +18,8 @@
     "@ampt/nuxt": "^1.0.0"
   },
   "ampt": {
-    "app": "nuxt-template"
+    "app": "nuxt-ampt",
+    "org": "erbanku368429"
   },
   "files": [
     "*"
